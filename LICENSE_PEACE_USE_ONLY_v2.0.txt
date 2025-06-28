@@ -1,0 +1,45 @@
+Peace-Use Only License v2.0
+===========================
+
+Copyright © 2025 Ricky Foster (TheRickyFoster)
+All rights reserved under ethical and humanitarian use doctrine.
+
+This license permits worldwide, royalty-free use of the Peace Pheromonics system solely for purposes that promote peace, healing, emotional recovery, environmental harmony, or trauma mitigation.
+
+Prohibited Uses:
+----------------
+You MAY NOT use this software, its code, documentation, hardware schematics, AI models, or any derivative works:
+- For any form of weaponization or military application.
+- For psychological manipulation or behavioral targeting.
+- For commercial resale or financial exploitation.
+- In contexts that cause harm or induce emotional distress.
+
+You MAY:
+--------
+- Use, modify, and deploy this system for peaceful, humanitarian, educational, and therapeutic purposes.
+- Distribute modified versions under this same license, with attribution.
+- Propose improvements via GitHub pull requests.
+
+Intellectual Property Clauses:
+------------------------------
+- **Copyright**: All source code, documents, and original designs are © Ricky Foster. Unauthorized duplication outside license terms is prohibited.
+- **Trademark**: The name “Peace Pheromonics” and any associated visual identity are protected as symbolic trademarks and may not be used for commercial branding without explicit written permission.
+- **Patent**: Core innovations and signal generation logic are under protective stewardship. Filing of derivative patents based on this work is not allowed without contributor consensus and ethical board review.
+
+Zero Harm Override:
+-------------------
+All deployments must include an active Zero Harm Override. Any real-world application must cease immediately if causing distress or unexpected side effects.
+
+Non-Transferability:
+--------------------
+This license may not be transferred, relicensed, or sublicensed. Reuse must adhere strictly to these terms.
+
+Attribution:
+------------
+All public forks or deployments must attribute original project source:
+https://github.com/TheRickyFoster/peace-pheromonics
+
+---
+
+Signed with universal intent to heal, not to harm.
+— The Peace Pheromonics Stewards (2025)
