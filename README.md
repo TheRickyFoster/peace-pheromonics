@@ -69,7 +69,7 @@ peace-pheromonics/
 ├── diagrams/             # System schematics and visuals
 ├── README.md             # Project overview (this file)
 ├── LICENSE.txt           # MIT License for code components
-├── LICENSE_PEACE_USE_ONLY.md  # Use-restriction for de-escalation-only purpose
+├── LICENSE_PEACE_USE_ONLY_v2.0.txt  # Updated ethical license
 ```
 
 ---
@@ -91,11 +91,16 @@ python swarm-agent-navi.py --zone=gaza
 
 ---
 
-## 🧿 Governance
+## 🧿 Licensing
 
-This protocol is managed under the **Peace-Use Only License** — all applications must serve healing, harmonization, or de-escalation purposes.
+This project is licensed under:
+- 📝 [MIT License](./LICENSE.txt) for general-purpose code reuse
+- ☮️ [Peace-Use Only License v2.0](./LICENSE_PEACE_USE_ONLY_v2.0.txt) for any deployments or derivative use
 
-**Commercial resale, militarization, or manipulative use is strictly forbidden.**
+**Important:**  
+This system may **only** be used for de-escalation, trauma recovery, or peace-related activities. Commercial resale, militarization, or manipulation is strictly forbidden.
+
+![Peace-Use Only License](docs/peace-use-only-badge.png)
 
 ---
 
